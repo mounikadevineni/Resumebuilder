@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+}
+.example{
+  background-color: darkred;
+  font-size: 42px;
+  color:white;
+  text-align: center;
+  bordr:2px dotted black;
+}
